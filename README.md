@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm Putul Saini</h1>
 <h3 align="center">😎 I am a Data Analyst. 
 <h3 align="center">⭐ Passionate About Data Analysis and Data Science.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=putulsaini&label=Profile%20views&color=0e75b6&style=flat" alt="putulsaini" /> </p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=putulsaini&label=Profile%20views&color=0e75b6&style=flat" alt="putulsaini" /> <br>
+    <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
+</p>    
     
 - 🔭 I’m currently working on **Portfolio Projects.**
 
