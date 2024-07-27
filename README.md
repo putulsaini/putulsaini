@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/6d05ff60-bcbc-4d2d-adce-89b5db7a5f46)
-
 <h1 align="center">Hi 👋, I'm Putul Saini</h1>
-<h3 align="center">😎 I am a Data Analyst. 
+<h3 align="center">😎 I am a Data Analyst.<h3>
+    <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif">
+
 <h3 align="center">⭐ Passionate About Data Analysis and Data Science.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=putulsaini&label=Profile%20views&color=0e75b6&style=flat" alt="putulsaini" /> <br>
     <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> 
